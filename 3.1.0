@@ -1,0 +1,10 @@
+
+> fibers@5.0.0 install C:\Users\kevin\Desktop\TMDB-reactjs\tmdb-webapp\node_modules\fibers
+> node build.js || nodejs build.js
+
+`win32-x64-72` exists; testing
+Binary is fine; exiting
++ fibers@5.0.0
+removed 10 packages, updated 1 package and audited 1853 packages in 17.255s
+found 3591 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
